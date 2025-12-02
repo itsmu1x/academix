@@ -1,0 +1,15 @@
+{
+	"version": 2,
+	"projects": [
+		{
+			"name": "frontend",
+			"source": "apps/frontend",
+			"framework": "vite"
+		},
+		{
+			"name": "backend",
+			"source": "apps/backend",
+			"framework": "nodejs"
+		}
+	]
+}
